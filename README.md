@@ -12,8 +12,12 @@
 
 ## How to use the program
 
-- 
-  
+- Based on your pc performance the AutoClicker may not reach the selected amount of clicks.
+  - When your pc isn't that great you should higher the clicks per second a bit in order to get the desired amount of clicks.
+- Whenever you are finished selecting a hotkey make sure you are not focusing one of the hotkey boxes.
+- If you aren't doing this step the next key you press may get set as an hotkey.
+  - click on the cps box or the another tab to switch the focus.
+
 ## What I have learned from this project
 
 - Robot class
